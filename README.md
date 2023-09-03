@@ -9,13 +9,3 @@ I'm a passionate web and mobile developer . I specialize in creating engaging an
 - ** Database: SQLite
 
 Feel free to explore my GitHub repositories for projects and code samples.
-
-## Contact
-
-You can reach out to me through the following channels:
-
-- GitHub: https://github.com/SinaHajipooor
-- LinkedIn: https://www.linkedin.com/in/devsinahajipour
-- Email: dev.sinahajipour@gmail.com
-
-Let's connect and collaborate on exciting projects!
