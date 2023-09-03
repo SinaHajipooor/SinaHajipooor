@@ -1,6 +1,6 @@
 # Hello, I'm Sina Hajipour
 
-I'm a passionate web and mobile developer . I specialize in creating engaging and user-friendly digital experiences.
+I'm a passionate web and mobile developer. I specialize in creating engaging and user-friendly digital experiences.
 
 ## Skills
 
